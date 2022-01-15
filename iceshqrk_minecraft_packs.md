@@ -27,7 +27,7 @@ This pack includes:
 ![screenshot2](https://cdn.discordapp.com/attachments/852886199818780704/931998130793218068/Minecraft_Screenshot_2022.01.15_-_22.39.21.97.png)
 
 # Bow and Crossbow pulling animations
-![gif1](https://cdn.discordapp.com/attachments/852886199818780704/931998023007998013/crossandbow.gif)
+![gif1](https://i.imgur.com/uG68hET.gif)
 
 # FPS limiter
 ![screenshot3](https://cdn.discordapp.com/attachments/852886199818780704/931998143984308264/Minecraft_Screenshot_2022.01.15_-_22.41.38.59.png)
